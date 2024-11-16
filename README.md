@@ -19,7 +19,7 @@ A custom system for executing PHP classes as background jobs in Laravel, indepen
 
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/TheDilawer/Laravel-Custom-Background-Job-Runner
    cd background-job-runner
 
 2. Install dependencies:
